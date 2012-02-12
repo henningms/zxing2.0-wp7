@@ -1,0 +1,8 @@
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\obj\Debug\ResolveAssemblyReference.cache
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\Bin\Debug\zxingwp7.dll
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\Bin\Debug\zxingwp7.pdb
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\Bin\Debug\WriteableBitmapExWinPhone.dll
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\Bin\Debug\WriteableBitmapExWinPhone.pdb
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\Bin\Debug\WriteableBitmapExWinPhone.xml
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\obj\Debug\zxingwp7.dll
+c:\users\henning\documents\visual studio 2010\Projects\zxingwp7\zxingwp7\obj\Debug\zxingwp7.pdb
